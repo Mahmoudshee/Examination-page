@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('cyber4.jpg');
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+}
+
+.container {
+    text-align: center;
+    color: white;
+    
+}
+
+.timer {
+    font-size: 36px;
+    font-weight: bold;
+}
+h1{
+    color: white;
+    font-size: 48px;
+    font-weight: bold;
+}
+.timer {
+    font-size: 64px; /* Set the font size to 48 pixels */
+    font-weight: bold; /* Optionally, make the text bold */
+    color: white; /* Set text color to white for better visibility */
+}
+h2{
+    color: skyblue;
+    font-size: 30px;
+    font-weight: bold;
+}
